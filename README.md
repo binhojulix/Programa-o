@@ -1,7 +1,6 @@
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khuyentran1401/Data-science)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://khuyentran1476.medium.com/) [![Daily Data Science Tips](https://img.shields.io/badge/Data%20Science%20Simplified-Daily%20Data%20Science%20Tips-green?logo=wordpress)](https://mathdatasimplified.com/) 
-
-# [Java Tópicos](https://github.com/khuyentran1401/Data-science)
-Collection of useful data science topics along with code and articles in my [data science blog](https://medium.com/@khuyentran1476). 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/binhojulix/java)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/@fabio.jdluz) 
+# [Java Tópicos](https://github.com/binhojulix/jav)
+Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio.jdluz). 
 
 If you want to received updates of these blogs in your mailbox, you can subscribe to [my Medium newsletter](https://khuyentran1476.medium.com/subscribe). To received bite-sized Python and daily data science tips in your mailbox, you can subscribe to [Data Science Simplified](https://mathdatasimplified.com/).
 
@@ -15,9 +14,9 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 7.  [Java Para Web](#java-para-web)
 8.  [Teoria dos Grafos](#teoria-dos-grafos)
 9.  [Estrutura de dados](#estrutura-de-dados)
-10. [Programção Paralela](#programacao-paralela)
+10. [Programação Paralela](#programacao-paralela)
 11. [Programação Concorrente](#programacao-concorrente)
-12. [Persistencia de dados](#persistencia-de-dados)
+12. [Persistência de dados](#persistencia-de-dados)
 13. [Spring boot](#spring-boot)
 14. [Microserviços](#microservicos)
 15. [AWS](#aws)
