@@ -6,7 +6,7 @@ Collection of useful data science topics along with code and articles in my [dat
 If you want to received updates of these blogs in your mailbox, you can subscribe to [my Medium newsletter](https://khuyentran1476.medium.com/subscribe). To received bite-sized Python and daily data science tips in your mailbox, you can subscribe to [Data Science Simplified](https://mathdatasimplified.com/).
 
 # Contents
-1.  [Lógica de Programação](#data-science-tools)
+1.  [Lógica de Programação](#lógica-de-programação)
 2.  [Orientação Objeto](#productive-tools)
 3.  [Design Patterns](#tools-for-deployment)
 4.  [Solid](#speed-up-tools)
@@ -24,14 +24,12 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 16. [Google Cloud](#linear-algebra)
 17. [Azure](#data-structure)
 18. [Docker](#statistics)
-19. [Applications](#applications)
-20. [Learning Tips](#learning-tips)
-21. [Productive Tips](#productive-tips)
-22. [VSCode](#vscode)
-23. [Book Review](#book-review)
-24. [Data Science Portfolio](#data-science-portfolio)
+19. [Games](#applications)
+20. [Programção Para desktop](#learning-tips)
+21. [Android](#productive-tips)
 
-# Data Science Tools 
+
+# Lógica de Programação 
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -271,32 +269,6 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | 5 Reasons why you should Switch from Jupyter Notebook to Scripts | [link](https://towardsdatascience.com/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95) |
 | 3 Ways to Get Notified with Python | [link](https://towardsdatascience.com/how-to-get-a-notification-when-your-training-is-complete-with-python-2d39679d5f0f) | [link](https://github.com/khuyentran1401/Data-science/tree/master/python/notification) |
 | 7 Reasons Why you Should Start Documenting your Code | [link](https://towardsdatascience.com/7-reasons-why-you-should-start-documenting-your-code-48c2096de6a7)
-
-
-# VSCode
-
-| Titulo        | Artigo           | Repositorio  |
-| ------------- |:-------------:| :-----:|
-| How to Leverage Visual Studio Code for your Data Science Projects | [link](https://towardsdatascience.com/how-to-leverage-visual-studio-code-for-your-data-science-projects-7078b70a72f0) | 
-| Top 4 Code Viewers for Data Scientist in VSCode | [link](https://towardsdatascience.com/top-4-code-viewers-for-data-scientist-in-vscode-e275e492350d) |
-| Incorporate the Best Practices for Python with These Top 4 VSCode Extensions | [link](https://towardsdatascience.com/incorporate-the-best-practices-for-python-with-these-top-4-vscode-extensions-3101177c23a9)
-| Boost Your Efficiency with Customized Code Snippets on VSCode | [link](https://towardsdatascience.com/how-to-boost-your-efficiency-with-customized-code-snippets-on-vscode-8127781788d7) |
-| Top 9 Keyboard Shortcuts in VSCode for Data Scientists | [link](https://towardsdatascience.com/top-9-keyboard-shortcuts-in-vscode-for-data-scientists-468691b65ebe) |
-
-
-# Book Review
-
-| Titulo        | Artigo           | Repositorio  |
-| ------------- |:-------------:| :-----:|
-| Python Machine Learning: A Comprehensive Handbook for Machine Learning | [link](https://medium.com/analytics-vidhya/python-machine-learning-a-comprehensive-handbook-for-machine-learning-63f024c898d0) |
-
-
-# Data Science Portfolio
-
-| Titulo        | Artigo           | Repositorio  |
-| ------------- |:-------------:| :-----:|
-| How to Create an Elegant Website for your Data Science Portfolio in 10 minutes | [link](https://towardsdatascience.com/how-to-create-an-elegant-website-for-your-data-science-portfolio-in-10-minutes-577f77d1f693)| 
-| Build an Impressive Github Profile in 3 Steps | [link](https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480)
 
 
 # Supporters
