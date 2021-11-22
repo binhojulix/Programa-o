@@ -25,7 +25,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 17. [Azure](#data-structure)
 18. [Docker](#statistics)
 19. [Games](#applications)
-20. [Programção Para desktop](#learning-tips)
+20. [Programação para Desktop](#learning-tips)
 21. [Android](#productive-tips)
 
 
@@ -48,7 +48,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Introduction to Deepnote: Real-time Collaboration on Jupyter Notebook | [link](https://pub.towardsai.net/introduction-to-deepnote-real-time-collaboration-on-jupyter-notebook-18509c95d62f)
 | Great Expectations: Always Know What to Expect From Your Data | [link](https://towardsdatascience.com/great-expectations-always-know-what-to-expect-from-your-data-51214866c24) | [link](https://github.com/khuyentran1401/Data-science/tree/master/data_science_tools/great_expectations_example)
 
-# Productive Tools
+# Orientação Objeto
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -61,7 +61,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | 4 pre-commit Plugins to Automate Code Reviewing and Formatting in Python | [link](https://towardsdatascience.com/4-pre-commit-plugins-to-automate-code-reviewing-and-formatting-in-python-c80c6d2e9f5) | [link](https://github.com/khuyentran1401/Data-science/tree/master/productive_tools/precommit_examples)
 | Write Clean Python Code Using Pipes | [link](https://towardsdatascience.com/write-clean-python-code-using-pipes-1239a0f3abf5) | [link](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fproductive_tools%2Fpipe.ipynb)
 
-# Tools for Deployment
+# Design Patterns
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -69,7 +69,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Typer: Build Powerful CLIs in One Line of Code using Python | [link](https://towardsdatascience.com/typer-build-powerful-clis-in-one-line-of-code-using-python-321d9aef3be8) | [link](https://github.com/khuyentran1401/Data-science/tree/master/terminal/typer_examples)
 
 
-# Speed-up Tools
+# Solid
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -77,7 +77,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Train your Machine Learning Model 150x Faster with cuML | [link](https://towardsdatascience.com/train-your-machine-learning-model-150x-faster-with-cuml-69d0768a047a) | [link](https://github.com/khuyentran1401/Data-science/tree/master/machine-learning/cuml)
 
 
-# Math Tools
+# Test Driver Development
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -85,7 +85,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | How to Create Mathematical Animations like 3Blue1Brown Using Python |[link](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1) | [link](https://github.com/khuyentran1401/Data-science/tree/master/visualization/manim_exp)
 
 
-# Machine Learning
+# Algoritimos
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -98,7 +98,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Patsy: Build Powerful Features with Arbitrary Python Code | [link](https://towardsdatascience.com/patsy-build-powerful-features-with-arbitrary-python-code-bb4bb98db67a#3be4-4bcff97738cd) | [link](https://github.com/khuyentran1401/Data-science/blob/master/statistics/patsy_example.ipynb)
 | SHAP: Explain Any Machine Learning Model in Python | [link](https://towardsdatascience.com/shap-explain-any-machine-learning-model-in-python-24207127cad7) | [link](https://deepnote.com/project/Data-science-hxlyJpi-QrKFJziQgoMSmQ/%2FData-science%2Fdata_science_tools%2Fshapey_values%2Fshapey_values.ipynb)
 
-# Natural Language Processing
+# Java Para Web
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -115,20 +115,20 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
  | I Analyzed 2k Data Scientist and Data Engineer Jobs and This is What I Found | [link](https://pub.towardsai.net/i-analyzed-2k-data-scientist-and-data-engineer-jobs-and-this-is-what-i-found-1ed37f98a704) | [link](https://github.com/khuyentran1401/Data-science/tree/master/nlp/diffbot_examples)
 
 
-# Computer Vision
+# Teoria dos Grafos
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | How to Create an App to Classify Dogs Using fastai and Streamlit | [link](https://towardsdatascience.com/how-to-create-an-app-to-classify-dogs-using-fastai-and-streamlit-af3e75f0ee28) | [link](https://github.com/khuyentran1401/dog_classifier)
 
-# Time Series
+# Estrutura de dados
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Kats: a Generalizable Framework to Analyze Time Series Data in Python | [link](https://towardsdatascience.com/kats-a-generalizable-framework-to-analyze-time-series-data-in-python-3c8d21efe057) | [link](https://github.com/khuyentran1401/Data-science/blob/master/time_series/kats_examples/kats.ipynb)
 | How to Detect Seasonality, Outliers, and Changepoints in Your Time Series | [link](https://towardsdatascience.com/how-to-detect-seasonality-outliers-and-changepoints-in-your-time-series-5d0901498cff) | [link](https://github.com/khuyentran1401/Data-science/blob/master/time_series/google_analytics/google-analytics-analysis.ipynb)
  
-# Feature Engineering
+# Programção Paralela
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -136,7 +136,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Similarity Encoding for Dirty Categories Using dirty_cat | [link](https://towardsdatascience.com/similarity-encoding-for-dirty-categories-using-dirty-cat-d9f0b581a552) | [link](https://github.com/khuyentran1401/Data-science/blob/master/feature_engineering/dirty_cat_example/employee_salaries.ipynb)
 
 
-# Visualization
+# Programação Concorrente
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -158,7 +158,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Visualize Similarities Between Companies With Graph Database | [link](https://khuyentran1476.medium.com/visualize-similarities-between-companies-with-graph-database-212af872fbf6) | [link](https://github.com/khuyentran1401/Data-science/blob/master/visualization/analyze_artificial_intelligence_industry.ipynb)
 
   
-# Mathematical Programming
+# Persistencia de dados
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -170,7 +170,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | How to Schedule Flights in Python | [link](https://towardsdatascience.com/how-to-schedule-flights-in-python-3357b200db9e) | [link](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/schedule_flight_crew/flight_crew_schedule.ipynb)
 | How to Solve a Production Planning and Inventory Problem in Python | [link](https://towardsdatascience.com/how-to-solve-a-production-planning-and-inventory-problem-in-python-45c546f4bcf0) | [link](https://github.com/khuyentran1401/Data-science/blob/master/mathematical_programming/production_and_inventory.ipynb)
 
-# Scraping
+# Spring boot
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -178,7 +178,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | top-github-scraper: Scrape Top Github Users and Repositories Based On a Keyword in One Line of Code | [link](https://khuyentran1476.medium.com/top-github-scraper-scrape-top-github-users-and-repositories-based-on-a-keyword-in-one-line-of-code-d48b29954aac) | [link](https://github.com/khuyentran1401/Data-science/blob/master/scraping/scrape_top_github.ipynb)
 
 
-# Python
+# Microserviços
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -197,7 +197,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Simplify Your Functions with Functools’ Partial and Singledispatch | [link](https://towardsdatascience.com/simplify-your-functions-with-functools-partial-and-singledispatch-b7071f7543bb) | [link](https://github.com/khuyentran1401/Data-science/blob/master/python/functools%20example.ipynb)
 
 
-# Terminal
+# AWS
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -213,7 +213,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Speed Up your Command-Line Navigation with These 3 Tools | [link](https://towardsdatascience.com/speed-up-your-command-line-navigation-with-these-3-tools-f90105c9aa2b) 
 | Python and Data Science Snippets on the Command Line | [link](https://towardsdatascience.com/python-and-data-science-snippets-on-the-command-line-2673d5d9e55d) | [link](https://github.com/khuyentran1401/Data-science/tree/master/applications/python_snippet_tutorial)
 
-# Linear Algebra
+# Google Cloud
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -221,7 +221,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Linear Algebra for Machine Learning: Solve a System of Linear Equations | [link](https://towardsdatascience.com/linear-algebra-for-machine-learning-solve-a-system-of-linear-equations-3ec7e882e10f) | [link](https://github.com/khuyentran1401/Numerical-Optimization-Machine-learning/blob/master/Backward%20substitution%20and%20Gaussian%20Elimiation.ipynb) |
 
 
-# Data Structure
+# Azure
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -231,7 +231,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | How to Find the Nearest Hospital with a Voronoi Diagram | [link](https://towardsdatascience.com/how-to-find-the-nearest-hospital-with-voronoi-diagram-63bd6d0b7b75) | [link](https://github.com/khuyentran1401/Voronoi-diagram/)
 
 
-# Statistics
+# Docker
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -239,7 +239,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 |Introduction to One-Way ANOVA: A Test to Compare the Means between More than Two Groups | [link]( https://towardsdatascience.com/introduction-to-one-way-anova-a-test-to-compare-the-means-between-more-than-two-groups-a656cb53b19c)| [link](https://github.com/khuyentran1401/Data-science/blob/master/statistics/ANOVA_examples.ipynb)
 | Bayes’ Theorem, Clearly Explained with Visualization | [link](https://towardsdatascience.com/bayes-theorem-clearly-explained-with-visualization-5083ea5e9b14#5c49-6a7199b5fc13) | [link](https://github.com/khuyentran1401/Data-science/blob/master/statistics/bayesian_theorem.ipynb)
 
-# Applications
+# Games
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -251,7 +251,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | Create an App to Deal with Boredom Using PyWebIO | [link](https://towardsdatascience.com/create-an-app-to-deal-with-boredom-using-pywebio-d17f3acd1613) | [link](https://build.pyweb.io/get/khuyentran1401/bored_app)
 
 
-# Learning Tips
+# Programação para Desktop
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -260,7 +260,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | To become a Better Data Scientist, you need to Think like a Programmer | [link](https://towardsdatascience.com/to-become-a-better-data-scientist-you-need-to-think-like-a-programmer-18d0a00994dc) | 
 | How not to be Overwhelmed with Data Science | [link](https://towardsdatascience.com/how-not-to-be-overwhelmed-with-data-science-5a95ff1618f8)
 
-# Productive Tips
+# Android
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
