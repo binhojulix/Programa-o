@@ -2,7 +2,7 @@
 # [Java Tópicos](https://github.com/binhojulix/jav)
 Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio.jdluz). 
 
-If you want to received updates of these blogs in your mailbox, you can subscribe to [my Medium newsletter](https://khuyentran1476.medium.com/subscribe). To received bite-sized Python and daily data science tips in your mailbox, you can subscribe to [Data Science Simplified](https://mathdatasimplified.com/).
+
 
 # Contents
 1.  [Lógica de Programação](#lógica-de-programação)
@@ -270,10 +270,7 @@ If you want to received updates of these blogs in your mailbox, you can subscrib
 | 7 Reasons Why you Should Start Documenting your Code | [link](https://towardsdatascience.com/7-reasons-why-you-should-start-documenting-your-code-48c2096de6a7)
 
 
-# Supporters
-Special thanks to these supporters for supporting this project!
 
-[<img src="img/danny.png" width="100" height="100">](https://github.com/DataWithDanny) [<img src="img/sagar.jpeg" width="100" height="100">](https://www.linkedin.com/in/sagar-ravindra-sonawane/)
 
 
 
