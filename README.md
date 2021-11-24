@@ -15,7 +15,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Event Trigger AWS Terraform |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
+| Lógica de programção |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
 
 
 
@@ -23,10 +23,10 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Event Trigger AWS Terraform |  | [link](https://github.com/binhojulix/Java/tree/master/orientacao-objeto/orientacaoobjeto) 
+| Orientação Objeto |  | [link](https://github.com/binhojulix/Java/tree/master/orientacao-objeto/orientacaoobjeto) 
 
 # Test Driver Development 
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Event Trigger AWS Terraform |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
+| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
