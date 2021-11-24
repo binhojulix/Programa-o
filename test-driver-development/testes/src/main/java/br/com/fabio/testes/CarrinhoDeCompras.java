@@ -9,7 +9,7 @@ public class CarrinhoDeCompras {
 
 	public List<Produto> getProdutos() {
 		// TODO Auto-generated method stub
-		return produtos;
+		return this.produtos;
 	}
 
 	public void adiciona(Produto produto) {
