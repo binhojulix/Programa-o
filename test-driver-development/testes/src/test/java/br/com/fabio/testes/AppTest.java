@@ -1,4 +1,4 @@
-package br.com.fabio;
+package br.com.fabio.testes;
 
 import org.junit.jupiter.api.Test;
 
@@ -12,7 +12,16 @@ class AppTest {
      * Rigorous Test.
      */
     @Test
-    void testApp() {
-        assertEquals(1, 1);
+    void ordemDecrescente() {
+    	CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
+        carrinho.adiciona(new Produto("Liquidificador", 250.0));
+        carrinho.adiciona(new Produto("Geladeira", 450.0));
+        carrinho.adiciona(new Produto("Jogo de pratos", 70.0));
+
+        MaiorEMenor algoritimo = new MaiorEMenor();
+        algoritimo.encontra(carrinho);
+
+        assertEquals("jogo de prato", algoritimo.getMenor().getName());
+        assertEquals("Geladeira", algoritimo.getMaior().getName());
     }
 }
