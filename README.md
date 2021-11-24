@@ -15,7 +15,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Event Trigger AWS Terraform |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacaoo) 
+| Event Trigger AWS Terraform |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
 
 
 
