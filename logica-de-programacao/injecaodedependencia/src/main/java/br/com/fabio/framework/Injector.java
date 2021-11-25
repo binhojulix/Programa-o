@@ -1,4 +1,4 @@
-package br.com.fabio.framework.utils;
+package br.com.fabio.framework;
 
 
 import java.io.IOException;
@@ -18,6 +18,7 @@ import org.burningwave.core.classes.ClassHunter;
 import org.burningwave.core.classes.SearchConfig;
 
 import br.com.fabio.framework.annotations.Component;
+import br.com.fabio.framework.utils.InjectionUtil;
 
 /**
  * Injector, to create objects for all @CustomService classes. autowire/inject

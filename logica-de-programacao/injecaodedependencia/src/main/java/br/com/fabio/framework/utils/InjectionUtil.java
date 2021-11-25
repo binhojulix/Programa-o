@@ -7,6 +7,8 @@ import java.lang.reflect.Field;
 import java.util.Collection;
 
 import org.burningwave.core.classes.FieldCriteria;
+
+import br.com.fabio.framework.Injector;
 import br.com.fabio.framework.annotations.Autowired;
 import br.com.fabio.framework.annotations.Qualifier;
 

@@ -1,5 +1,5 @@
 package br.com.fabio;
-import br.com.fabio.framework.utils.Injector;
+import br.com.fabio.framework.Injector;
 
 /**
  * Hello world!
