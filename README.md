@@ -48,18 +48,18 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 # Design Patterns
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Abstract Factory |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Adapter Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Builder Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Chain of responsability pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Command Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Decorator Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Facade Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Factory Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
+| Abstract Factory |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/abstractfactory) 
+| Adapter Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/adapterpattern) 
+| Builder Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/builderpattern) 
+| Chain of responsability pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/chainofresponsibilitypattern) 
+| Command Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/commandpattern) 
+| Decorator Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/decoratorpattern) 
+| Facade Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/facadepattern) 
+| Factory Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/factorypattern) 
 | Prototype|  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Singleton Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Strategy Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
-| Template Method Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
+| Singleton Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/singletonpattern) 
+| Strategy Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/strategypattern) 
+| Template Method Pattern |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/templatemethodpatterns) 
 
 
 # Teoria dos grafos 
