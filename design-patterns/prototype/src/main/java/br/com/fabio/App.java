@@ -27,7 +27,7 @@ public final class App {
 		Estudante st1=new Estudante(nameString, depString);
 		System.out.println(st1.toString());
 		
-//		Student st2=new Student(st1.name, st1.dept);//error will be there for dept.
+
 		
 		Estudante st2=(Estudante)st1.getClone();
 		System.out.println(st2.toString());

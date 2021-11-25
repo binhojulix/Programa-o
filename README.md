@@ -22,28 +22,116 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 15. [Java Android](#java-ia)
 16. [Java Embarcados](#java-embarcados)
 17. [Java Extensoes](#java-extensoes)
+18. [Build](#build)
+
+
 
 # Lógica de Programação 
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de programção |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
 
 
 # Orientação objeto 
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Orientação Objeto |  | [link](https://github.com/binhojulix/Java/tree/master/orientacao-objeto/orientacaoobjeto) 
 
-# Test Driver Development 
 
+# Test Driver Development 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
 
-# Design Patterns
 
+# Design Patterns
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
+
+
+
+# Teoria dos grafos 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Lógica de programção |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
+
+
+# Solid 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Orientação Objeto |  | [link](https://github.com/binhojulix/Java/tree/master/orientacao-objeto/orientacaoobjeto) 
+
+
+# Java Web
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
+
+
+# Java Desktop
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
+
+
+
+# Java Games
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Lógica de programção |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
+
+
+# Java Programacao paralela e concorrente 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Orientação Objeto |  | [link](https://github.com/binhojulix/Java/tree/master/orientacao-objeto/orientacaoobjeto) 
+
+
+# Java Sistemas distribuidos 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
+
+
+# Java arquivos
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
+
+
+
+# Java IA 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Lógica de programção |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
+
+
+# Java Embarcados 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Orientação Objeto |  | [link](https://github.com/binhojulix/Java/tree/master/orientacao-objeto/orientacaoobjeto) 
+
+
+# Test Driver Development 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
+
+
+# Design Patterns
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
+
+
+# Java Extensoes 
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Lógica de programção |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
+
+
+# build
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Orientação Objeto |  | [link](https://github.com/binhojulix/Java/tree/master/orientacao-objeto/orientacaoobjeto) 

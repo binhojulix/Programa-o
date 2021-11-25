@@ -6,7 +6,11 @@ public class Estudante implements Prototype{
 	public String name;
 	private String dept;
 
-
+	 /**
+	  * 
+	  * @param name
+	  * @param dept
+	  */
     public Estudante(String name, String dept){
         this.id = ++idGen;
 		this.name = name;
