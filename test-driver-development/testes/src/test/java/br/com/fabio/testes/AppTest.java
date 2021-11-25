@@ -21,7 +21,7 @@ class AppTest {
         MaiorEMenor algoritimo = new MaiorEMenor();
         algoritimo.encontra(carrinho);
 
-        assertEquals("Jogo de pratos", algoritimo.getMenor().getName());
+        assertEquals("Jogo de prdatos", algoritimo.getMenor().getName());
         assertEquals("Geladeira", algoritimo.getMaior().getName());
     }
 }
