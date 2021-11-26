@@ -31,7 +31,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 | ------------- |:-------------:| :-----:|
 | Lógica de programção |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/logicadeprogramacao) 
 | framework de injeção de dependencia |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/injecaodedependencia)
-
+| Algoritimos |  | [link](https://github.com/binhojulix/Java/tree/master/logica-de-programacao/algoritimos)
 
 # Orientação objeto 
 | Titulo        | Artigo           | Repositorio  |
