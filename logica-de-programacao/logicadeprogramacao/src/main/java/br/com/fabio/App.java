@@ -54,4 +54,37 @@ public final class App {
         return maisBarato;
     }
 
+    private static void ordena(Produto[] produtos) {
+        for (int atual = 0; atual < produtos.length - 1; atual++) {
+            int menor = buscaMenor(produtos, atual, produtos.length - 1);
+            Produto produtoAtual = produtos[atual];
+            Produto produtoMenor = produtos[menor];
+            produtos[atual] = produtoMenor;
+            produtos[menor] = produtoAtual;
+        }
+    }
+
+    private static void novoSort(Produto[] produtos, int quantidadeDeElementos) {
+        for (int atual = 0; atual < quantidadeDeElementos - 1; atual++) {
+            int analise = atual;
+            while (analise > 0 && produtos[analise].getPreco() < produtos[analise - 1].getPreco()) {
+                Produto produtoAnalise = produtos[analise];
+                Produto produtoAnaliseMenos1 = produtos[analise - 1];
+                produtos[analise] = produtoAnaliseMenos1;
+                produtos[analise - 1] = produtoAnalise;
+                analise--;
+            }
+        }
+    }
+
+    private static void selectionSort(Produto[] produtos, int quantidadeDeElementos) {
+        for (int atual = 0; atual < quantidadeDeElementos - 1; atual++) {
+            int menor = buscaMenor(produtos, atual, quantidadeDeElementos - 1);
+            Produto produtoAtual = produtos[atual];
+            Produto produtoMenor = produtos[menor];
+            produtos[atual] = produtoMenor;
+            produtos[menor] = produtoAtual;
+        }
+    }
+
 }
