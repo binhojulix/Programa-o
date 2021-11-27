@@ -1,4 +1,4 @@
-package br.com.fabio.testes;
+package br.com.fabio.carrinhoDeCompra;
 
 public class Produto {
     private String name;
