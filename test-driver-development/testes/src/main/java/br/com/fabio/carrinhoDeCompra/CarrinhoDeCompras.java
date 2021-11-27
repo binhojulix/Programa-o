@@ -17,7 +17,7 @@ public class CarrinhoDeCompras {
 	public List<Item> getItens() {
 		return Collections.unmodifiableList(itens);
 	}
-	
+
 	public double maiorValor() {
 		if(itens.size() == 0) return 0;
 		double maior = itens.get(0).getValorTotal();

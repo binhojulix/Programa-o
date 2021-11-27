@@ -13,7 +13,4 @@ public class MaiorPreco {
 		}
 		return maior;
 	}
-	
-	
-	
 }
