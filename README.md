@@ -15,7 +15,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 8.  [Java Web](#java-web)
 9.  [Java Desktop](#java-desktop)
 10. [Java Games](#java-games)
-11. [Java Programacao paralela e concorrente](#java-programacao-parelela-e-concorrente)
+11. [Java Programacao paralela e concorrente](#java-programacao-paralela-e-concorrente)
 12. [Java Sistemas distribuidos](#java-sistemas-distribuidos)
 13. [Java arquivos](#java-arquivos)
 14. [Java IA](#java-ia)
