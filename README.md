@@ -83,7 +83,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 # Java Web
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
+| JSF E JPA |  | [link](https://github.com/binhojulix/Java/tree/master/java-para-web/JSFJPA) 
 
 
 # Java Desktop
