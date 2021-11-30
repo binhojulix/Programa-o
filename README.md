@@ -19,7 +19,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 12. [Java Sistemas distribuidos](#java-sistemas-distribuidos)
 13. [Java arquivos](#java-arquivos)
 14. [Java IA](#java-ia)
-15. [Java Android](#java-ia)
+15. [Java Android](#java-android)
 16. [Java Embarcados](#java-embarcados)
 17. [Java Extensoes](#java-extensoes)
 18. [Build](#build)
@@ -136,7 +136,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 | Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/test-driver-development/testes) 
 
 
-# Design Patterns
+# Java Android
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Test Driver Development |  | [link](https://github.com/binhojulix/Java/tree/master/design-patterns/prototype) 
