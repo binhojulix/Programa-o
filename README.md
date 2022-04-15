@@ -14,7 +14,7 @@ Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Spring boot e testes: profiles, testes e deploy |  | [link](https://github.com/binhojulix/Programa-o/tree/spring-boot-profiles-testes-deploy) 
-| Servlets fundamentos de java na web |  | [link](https://github.com/binhojulix/Programa-o/tree/Servlets-Fundamentos-de-Java-na-Web/Java%20Servlet%20fundamentos%20da%20programa%C3%A7%C3%A3o%20web%20Java) 
+| Servlets fundamentos de java na web |  | [link](https://github.com/binhojulix/Programa-o/tree/Servlets-Fundamentos-de-Java-na-Web) 
 | Spring boot api rest |  | [link](https://github.com/binhojulix/Programa-o/tree/spring-boot-api-rest) 
 | Spring mbv thymeleaf bootstrap |  | [link](https://github.com/binhojulix/Programa-o/tree/spring-mvc-thymeleaf-bootstrap) 
 | Java JPA Consultas avancadas performance modelos complexos |  | [link](https://github.com/binhojulix/Programa-o/tree/java-jpa-consultas-avancadas-performance-modelos-complexos) 
