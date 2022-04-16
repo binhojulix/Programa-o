@@ -1,6 +1,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/binhojulix/java)  [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-red?logo=medium)](https://medium.com/@fabio.jdluz) 
-# [Java Tópicos](https://github.com/binhojulix/jav)
-Java tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio.jdluz). 
+# [Tópicos](https://github.com/binhojulix/Programa-o)
+Tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio.jdluz). 
 
 
 
