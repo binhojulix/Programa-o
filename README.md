@@ -10,6 +10,7 @@ Tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio.jdlu
 
 
 
+
 # Java Para Web
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -22,3 +23,4 @@ Tópicos com códigos e argigos no meu [java blog]https://medium.com/@fabio.jdlu
 | jdbc dao persistencia |  | [link](https://github.com/binhojulix/Programa-o/tree/jdbc-dao-persistencia) 
 | Spring data JPA |  | [link](https://github.com/binhojulix/Programa-o/tree/spring-data-jpa) 
 | Spring MVC Security rest vuejs ajax |  | [link](https://github.com/binhojulix/Programa-o/tree/spring-mvc-security-rest-vuejs-ajax) 
+| Quarks |  | [link](https://github.com/binhojulix/Programa-o/tree/java-jpa-consultas-avancadas-performance-modelos-complexos/bitcoin-teste_com_restassured) 
